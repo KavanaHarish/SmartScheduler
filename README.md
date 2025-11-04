@@ -65,6 +65,7 @@ This system automates the scheduling process, prevents conflicts, and ensures st
 ## 📊 Key Features (Crisp Summary)
 - Multi-login (Admin, Teacher, Student)
 - Dynamic department, teacher & student management
+- Emergency Teacher Substitution feature
 - Holiday & weekend exclusion
 - Smart substitution logic
 - SMS notifications via Twilio
