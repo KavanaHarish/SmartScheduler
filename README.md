@@ -98,3 +98,4 @@ Access the project at:
 ## 👏 Credits 
 - **Core Project Idea & Logic:** Team Dartmouth  
 - **Visualization & Design:** Dartmouth SmartScheduler UI/UX Team  
+- **Code Generation:** ChatGPT, Cursor AI, GitHub Copilot
